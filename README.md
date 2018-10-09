@@ -1,3 +1,5 @@
+Note: *This project uses outdated version of React, you can play here to learn.*
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 See the working output of this repo [here](https://priteshjha4u.github.io/ReactApps/).
